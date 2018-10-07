@@ -1,0 +1,1 @@
+# Large Scala Data Procesing, 2018, Task lists
